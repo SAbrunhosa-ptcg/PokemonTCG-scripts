@@ -1,0 +1,267 @@
+Set number,Card name,Rarity,Value,IOS,IOS duplicate
+1,Surskit,C,0.02,0,0
+2,Masquerain,U,0.02,0,0
+3,Froslass ex,DR,1,2,0
+4,Pansage,C,0.02,0,0
+5,Simisage,U,0.02,0,0
+6,Dwebble,C,0.02,0,0
+7,Crustle,C,0.02,0,0
+8,Bounsweet,C,0.02,4,4
+9,Steenee,U,0.02,4,0
+10,Blipbug,C,0.02,0,0
+11,Dottler,C,0.02,0,0
+12,Orbeetle,U,0.02,0,0
+13,Nymble,C,0.02,4,0
+14,Nymble,C,0.02,4,0
+15,Toedscool,C,0.02,0,0
+16,Toedscool,C,0.02,0,0
+17,Toedscruel,U,0.02,0,0
+18,WoChien,R,0.02,0,0
+19,Magby,C,0.02,0,0
+20,Pansear,C,0.02,0,0
+21,Simisear,U,0.02,0,0
+22,Volcanion,R,0.02,0,0
+23,Fuecoco,C,0.02,3,0
+24,Crocalor,U,0.02,3,0
+25,Charcadet,C,0.02,4,0
+26,Charcadet,C,0.02,4,0
+27,Armarouge ex,DR,1.3,4,2
+28,Iron Moth,R,0.02,4,0
+29,ChiYu,R,0.02,0,0
+30,Horsea,C,0.02,0,0
+31,Seadra,C,0.02,0,0
+32,Kingdra,R,0.02,0,0
+33,Remoraid,C,0.02,0,0
+34,Octillery,C,0.02,0,0
+35,Feebas,C,0.02,0,0
+36,Milotic,R,0.02,0,0
+37,Snorunt,C,0.02,4,0
+38,Garchomp ex,DR,1.8,4,4
+39,Mantyke,C,0.02,0,0
+40,Palkia,R,0.02,0,0
+41,Panpour,C,0.02,0,0
+42,Simipour,U,0.02,0,0
+43,Vanillite,C,0.02,0,0
+44,Vanillish,C,0.02,0,0
+45,Vanilluxe,U,0.02,0,0
+46,Tsareena ex,DR,2,4,4
+47,Wimpod,C,0.02,4,0
+48,Wimpod,C,0.02,4,0
+49,Golisopod,R,0.02,4,0
+50,Golisopod ex,DR,0.8,4,2
+51,Wiglett,C,0.02,0,0
+52,Wiglett,C,0.02,0,0
+53,Wugtrio,U,0.02,0,0
+54,Veluza,U,0.02,0,0
+55,Dondozo,U,0.02,0,0
+56,Iron Bundle,U,0.02,4,0
+57,ChienPao,R,0.02,0,0
+58,Mewtwo ex,DR,3,2,2
+59,Elekid,C,0.02,4,0
+60,Plusle,C,0.02,0,0
+61,Minun,C,0.02,0,0
+62,Blitzle,C,0.02,0,0
+63,Zebstrika,U,0.02,0,0
+64,Joltik,C,0.02,0,0
+65,Galvantula,C,0.02,0,0
+66,Zekrom,R,0.02,4,0
+67,Oricorio,C,0.02,0,0
+68,Tapu Koko ex,DR,1,2,2
+69,Toxel,C,0.02,4,0
+70,Iron Hands ex,DR,12,4,4
+71,Natu,C,0.02,4,4
+72,Xatu,R,0.02,4,4
+73,Latios,R,0.02,0,0
+74,Deoxys,R,0.02,0,0
+75,Yamask,C,0.02,0,0
+76,Cofagrigus ex,DR,1,2,2
+77,Pumpkaboo,C,0.02,4,0
+78,Gourgeist,U,0.02,4,0
+79,Flittle,C,0.02,0,0
+80,Flittle,C,0.02,0,0
+81,Espathra,R,0.02,0,0
+82,Tinkatink,C,0.02,0,0
+83,Tinkatink,C,0.02,0,0
+84,Tinkatuff,C,0.02,0,0
+85,Tinkaton,U,0.02,0,0
+86,Scream Tail,U,0.02,0,0
+87,Gimmighoul,C,0.02,3,3
+88,Gimmighoul,C,0.02,3,3
+89,Iron Valiant ex,DR,2,4,2
+90,Onix,C,0.02,0,0
+91,Gligar,C,0.02,0,0
+92,Gliscor,U,0.02,0,0
+93,Groudon,R,0.02,0,0
+94,Gible,C,0.02,4,4
+95,Gabite,U,0.02,4,0
+96,Mienfoo,C,0.02,0,0
+97,Mienshao,U,0.02,0,0
+98,Hoopa ex,DR,1.8,2,2
+99,Minior,U,0.02,0,0
+100,Toxtricity ex,DR,0.8,4,0
+101,Nacli,C,0.02,0,0
+102,Nacli,C,0.02,0,0
+103,Naclstack,C,0.02,0,0
+104,Garganacl,R,0.02,0,0
+105,Klawf,U,0.02,0,0
+106,Flamigo,C,0.02,0,0
+107,Slither Wing,U,0.02,4,0
+108,Sandy Shocks ex,DR,2,4,4
+109,TingLu,R,0.02,0,0
+110,Zubat,C,0.02,0,0
+111,Golbat,C,0.02,0,0
+112,Crobat,U,0.02,0,0
+113,Absol,U,0.02,0,0
+114,Purrloin,C,0.02,0,0
+115,Liepard,C,0.02,0,0
+116,Trubbish,C,0.02,0,0
+117,Garbodor,U,0.02,0,0
+118,Yveltal,R,0.02,4,0
+119,Nickit,C,0.02,4,0
+120,Thievul,R,0.02,4,0
+121,Morpeko,R,0.02,0,0
+122,Lokix,R,0.02,4,0
+123,Brute Bonnet,R,0.02,4,0
+124,Roaring Moon ex,DR,4,4,2
+125,Steelix,R,0.02,0,0
+126,Jirachi,C,0.02,4,4
+127,Ferroseed,C,0.02,0,0
+128,Ferrothorn,U,0.02,0,0
+129,Durant,U,0.02,0,0
+130,Honedge,C,0.02,4,0
+131,Honedge,C,0.02,4,0
+132,Doublade,C,0.02,4,0
+133,Doublade,C,0.02,4,0
+134,Aegislash,R,0.02,4,0
+135,Aegislash ex,DR,1,4,2
+136,Zacian,R,0.02,0,0
+137,Skeledirge ex,DR,1,0,0
+138,Orthworm,U,0.02,0,0
+139,Gholdengo ex,DR,4,4,4
+140,Altaria ex,DR,1,2,2
+141,Tatsugiri,U,0.02,0,0
+142,Porygon,C,0.02,0,0
+143,Porygon2,C,0.02,0,0
+144,PorygonZ,R,0.02,0,0
+145,Aipom,C,0.02,0,0
+146,Ambipom,U,0.02,0,0
+147,Miltank,C,0.02,0,0
+148,Whismur,C,0.02,0,0
+149,Loudred,C,0.02,0,0
+150,Exploud,U,0.02,0,0
+151,Spinda,C,0.02,0,0
+152,Swablu,C,0.02,0,0
+153,Tandemaus,C,0.02,4,0
+154,Tandemaus,C,0.02,4,0
+155,Maushold ex,DR,0.8,4,2
+156,Bombirdier ex,DR,0.8,4,4
+157,Cyclizar,U,0.02,4,0
+158,Iron Jugulis,R,0.02,4,0
+159,Ancient Booster Energy Capsule,U,0.02,4,4
+160,Counter Catcher,U,1,4,4
+161,Cursed Duster,U,0.02,0,0
+162,Defiance Vest,U,0.02,2,2
+163,Earthen Vessel,U,2.5,4,4
+164,Future Booster Energy Capsule,U,0.02,4,4
+165,Larry,C,0.02,0,0
+166,Luxurious Cape,U,0.02,2,2
+167,Mela,U,0.02,2,2
+168,Norman,U,0.02,0,0
+169,Parasol Lady,C,0.02,2,2
+170,Professor Sadas Vitality,U,0.02,4,4
+171,Professor Turos Scenario,U,0.02,4,4
+172,Rika,U,0.02,4,4
+173,Roark,U,0.02,0,0
+174,Shauntal,U,0.02,0,0
+175,Snorlax Doll,U,0.02,2,2
+176,Technical Machine Blindside,U,0.02,2,2
+177,Technical Machine Devolution,U,0.02,4,4
+178,Technical Machine Evolution,U,0.02,4,4
+179,Technical Machine Turbo Energize,U,0.02,4,4
+180,Techno Radar,U,0.02,4,4
+181,Tulip,U,0.02,2,2
+182,Medical Energy,U,0.02,0,0
+183,Crustle,IR,6,2,2
+184,Dottler,IR,4.6,2,2
+185,Toedscruel,IR,7,2,2
+186,Magby,IR,15,2,2
+187,Iron Moth,IR,7,3,2
+188,Snorunt,IR,12,3,2
+189,Mantyke,IR,12,3,2
+190,Vanillish,IR,9,2,2
+191,Wimpod,IR,8.5,3,2
+192,Veluza,IR,7,2,2
+193,Plusle,IR,15,2,2
+194,Minun,IR,18,2,2
+195,Blitzle,IR,8,2,2
+196,Joltik,IR,9,2,2
+197,Espathra,IR,10,2,2
+198,Gimmighoul,IR,8.5,2,2
+199,Groudon,IR,75,5,2
+200,Mienshao,IR,10,2,2
+201,Minior,IR,7.5,2,2
+202,Garganacl,IR,6,2,2
+203,Slither Wing,IR,6.5,3,2
+204,Garbodor,IR,9,5,2
+205,Yveltal,IR,11,5,2
+206,Morpeko,IR,15,2,2
+207,Brute Bonnet,IR,7,2,2
+208,Steelix,IR,26,2,2
+209,Ferrothorn,IR,8.5,2,2
+210,Aegislash,IR,7.5,5,2
+211,Aipom,IR,8,2,2
+212,Loudred,IR,11.5,2,2
+213,Swablu,IR,10,3,2
+214,PorygonZ,IR,8.9,3,2
+215,Cyclizar,IR,5.5,3,2
+216,Iron Jugulis,IR,6,2,2
+217,Froslass ex,UR,3.5,2,2
+218,Armarouge ex,UR,6,5,2
+219,Garchomp ex,UR,8,3,2
+220,Tsareena ex,UR,5,2,2
+221,Golisopod ex,UR,5,3,2
+222,Tapu Koko ex,UR,3.5,2,2
+223,Iron Hands ex,UR,18,3,2
+224,Cofagrigus ex,UR,4,2,2
+225,Iron Valiant ex,UR,6.5,3,2
+226,Hoopa ex,UR,5,2,2
+227,Toxtricity ex,UR,7,2,2
+228,Sandy Shocks ex,UR,6,3,2
+229,Roaring Moon ex,UR,12,3,2
+230,Aegislash ex,UR,3,3,2
+231,Gholdengo ex,UR,6.5,2,2
+232,Altaria ex,UR,6,2,2
+233,Maushold ex,UR,6,3,2
+234,Bombirdier ex,UR,5,2,2
+235,Larry,UR,3.4,2,2
+236,Mela,UR,5,2,2
+237,Norman,UR,4,2,2
+238,Parasol Lady,UR,6,2,2
+239,Professor Sadas Vitality,UR,9,2,2
+240,Professor Turos Scenario,UR,5,2,2
+241,Rika,UR,4,2,2
+242,Roark,UR,3.5,2,2
+243,Shauntal,UR,2.5,2,2
+244,Tulip,UR,4,2,2
+245,Garchomp ex,SIR,40,3,2
+246,Golisopod ex,SIR,30,3,2
+247,Tapu Koko ex,SIR,39,2,2
+248,Iron Hands ex,SIR,32,3,2
+249,Iron Valiant ex,SIR,80,3,2
+250,Sandy Shocks ex,SIR,22.5,3,2
+251,Roaring Moon ex,SIR,105,3,2
+252,Gholdengo ex,SIR,37,2,2
+253,Altaria ex,SIR,75,3,2
+254,Mela,SIR,10,2,2
+255,Parasol Lady,SIR,27,2,2
+256,Professor Sadas Vitality,SIR,22,2,2
+257,Professor Turos Scenario,SIR,17,2,2
+258,Rika,SIR,11,2,2
+259,Tulip,SIR,18,2,2
+260,Garchomp ex,HR,23,3,2
+261,Iron Valiant ex,HR,14,3,2
+262,Roaring Moon ex,HR,15,3,2
+263,Beach Court,HR,5,2,2
+264,Counter Catcher,HR,8,2,2
+265,Luxurious Cape,HR,8.15,2,2
+266,Reversal Energy,HR,6,2,2

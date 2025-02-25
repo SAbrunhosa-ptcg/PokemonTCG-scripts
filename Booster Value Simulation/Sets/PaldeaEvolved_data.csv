@@ -1,0 +1,280 @@
+Set number,Card name,Rarity,Value,IOS,IOS duplicate
+1,Hoppip,C,0.12,0,0
+2,Skiploom,U,0.05,0,0
+3,Jumpluff,R,0.16,0,0
+4,Pineco,C,0.07,0,0
+5,Forretress ex,DR,2.12,2,2
+6,Heracross,U,0.05,1,0
+7,Tropius,C,0.04,0,0
+8,Combee,C,0.05,0,0
+9,Vespiquen,U,0.06,0,0
+10,Snover,C,0.04,1,0
+11,Abomasnow,R,0.14,1,0
+12,Sprigatito,C,0.07,1,0
+13,Sprigatito,C,0.07,1,0
+14,Floragato,U,0.07,1,0
+15,Meowscarada ex,DR,2.29,2,2
+16,Tarountula,C,0.05,0,0
+17,Tarountula,C,0.06,0,0
+18,Spidops,U,0.07,0,0
+19,Nymble,C,0.05,0,0
+20,Nymble,C,0.05,0,0
+21,Lokix,R,0.14,0,0
+22,Bramblin,C,0.05,1,0
+23,Bramblin,C,0.05,1,0
+24,Brambleghast,U,0.07,1,0
+25,Rellor,C,0.05,0,0
+26,Rellor,C,0.05,0,0
+27,Wo-Chien ex,DR,1.94,2,2
+28,Paldean Tauros,U,0.1,4,0
+29,Fletchinder,U,0.06,0,0
+30,Talonflame,U,0.06,0,0
+31,Litleo,C,0.04,0,0
+32,Pyroar,U,0.06,0,0
+33,Oricorio,R,0.22,0,0
+34,Fuecoco,C,0.06,0,0
+35,Fuecoco,C,0.06,0,0
+36,Crocalor,U,0.06,0,0
+37,Skeledirge ex,DR,1.63,2,2
+38,Charcadet,C,0.04,4,0
+39,Charcadet,C,0.06,4,0
+40,Chi-Yu ex,DR,1.67,2,2
+41,Paldean Tauros,U,0.09,1,0
+42,Magikarp,C,0.04,1,0
+43,Gyarados,R,0.14,1,0
+44,Marill,C,0.05,0,0
+45,Azumarill,U,0.05,0,0
+46,Delibird,C,0.04,0,0
+47,Luvdisc,C,0.05,0,0
+48,Eiscue,U,0.04,0,0
+49,Quaxly,C,0.05,1,0
+50,Quaxly,C,0.05,1,0
+51,Quaxwell,U,0.05,1,0
+52,Quaquaval ex,DR,1.41,2,2
+53,Cetoddle,C,0.05,0,0
+54,Cetoddle,C,0.05,0,0
+55,Cetitan,U,0.05,0,0
+56,Veluza,R,0.19,0,0
+57,Frigibax,C,0.09,0,0
+58,Frigibax,C,0.09,1,0
+59,Arctibax,U,0.07,1,0
+60,Baxcalibur,R,0.38,1,0
+61,Chien-Pao ex,DR,8.41,2,2
+62,Pkachu,C,0.05,0,0
+63,Pikachu ex,DR,3.06,2,2
+64,Raichu,U,0.07,0,0
+65,Magnemite,C,0.04,4,0
+66,Voltorb,C,0.05,0,0
+67,Electrode,U,0.05,0,0
+68,Shinx,C,0.04,0,0
+69,Shinx,C,0.05,0,0
+70,Luxio,U,0.05,0,0
+71,Luxray,R,0.44,1,0
+72,Pincurchin,C,0.05,0,0
+73,Pincurchin,U,0.05,0,0
+74,Pawmi,C,0.05,0,0
+75,Pawmo,U,0.06,0,0
+76,Pawmot,R,0.14,0,0
+77,Tadbulb,C,0.06,0,0
+78,Tadbulb,C,0.06,0,0
+79,Bellibolt ex,DR,1.41,2,2
+80,Wattrel,C,0.08,0,0
+81,Wattrel,C,0.06,0,0
+82,Kilowattrel,U,0.06,0,0
+83,Jigglypuff,C,0.05,0,0
+84,Wigglytuff,R,0.15,0,0
+85,Slowpoke,C,0.05,0,0
+86,Slowking ex,DR,1.76,2,2
+87,Misdreavus,C,0.05,4,0
+88,Mismagius,U,0.06,4,0
+89,Spiritomb,R,0.53,1,0
+90,Gothita,C,0.05,0,0
+91,Gothorita,C,0.05,0,0
+92,Gothitelle,U,0.06,0,0
+93,Dedenne ex,DR,1.48,2,2
+94,Oranguru,U,0.06,0,0
+95,Sandygast,C,0.05,0,0
+96,Palossand,U,0.05,0,0
+97,Mimikyu,R,0.29,1,0
+98,Ceruledge,R,0.25,4,0
+99,Rabsca,R,0.21,0,0
+100,Tinkatink,C,0.05,0,0
+101,Tinkatink,C,0.05,0,0
+102,Tinkatink,C,0.06,0,0
+103,Tinkatuff,U,0.05,0,0
+104,Tinkatuff,U,0.1,0,0
+105,Tinkaton,R,0.21,0,0
+106,Mankey,C,0.04,0,0
+107,Primeape,U,0.05,0,0
+108,Paldean Tauros,U,0.08,1,0
+109,Sudowoodo,U,0.05,0,0
+110,Larvitar,C,0.05,4,0
+111,Pupitar,U,0.07,4,0
+112,Makuhita,C,0.04,1,0
+113,Hariyama,R,0.13,1,0
+114,Croagunk,C,0.04,0,0
+115,Toxicroak,U,0.04,0,0
+116,Rockruff,C,0.05,0,0
+117,Lycanroc ex,DR,1.79,2,2
+118,Passimian,U,0.05,0,0
+119,Falinks,C,0.04,4,0
+120,Nacli,C,0.06,0,0
+121,Nacli,C,0.05,0,0
+122,Naclestack,U,0.07,0,0
+123,Garganacl,R,0.22,0,0
+124,Glimmet,C,0.07,0,0
+125,Glimmet,C,0.06,0,0
+126,Glimmora,R,0.31,0,0
+127,Ting-Lu ex,DR,2.23,2,2
+128,Paldean Wooper,C,0.08,3,0
+129,Paldean Wooper,C,0.07,3,0
+130,Paldean Clodsire ex,DR,1.68,2,2
+131,Murkrow,C,0.06,1,0
+132,Honchkrow,U,0.05,1,0
+133,Sneasel,C,0.05,4,0
+134,Weavile,R,0.17,4,0
+135,Tyranitar,R,0.18,4,0
+136,Sableye,R,0.17,4,0
+137,Seviper,U,0.05,0,0
+138,Deino,C,0.05,4,0
+139,Zweilous,U,0.05,4,0
+140,Hydreigon,R,0.21,4,0
+141,Maschiff,C,0.05,0,0
+142,Maschiff,C,0.05,0,0
+143,Mabosstiff,U,0.05,0,0
+144,Shroodle,C,0.06,0,0
+145,Shroodle,C,0.06,0,0
+146,Grafaiai,U,0.07,0,0
+147,Bombirdier,U,0.05,0,0
+148,Corviknight,U,0.05,4,0
+149,Cufant,C,0.06,0,0
+150,Copperajah ex,DR,1.36,2,2
+151,Orthworm,R,0.29,0,0
+152,Noibat,C,0.06,4,0
+153,Noivern ex,DR,2.3,5,2
+154,Girafarig,C,0.05,0,0
+155,Farigiraf,U,0.07,0,0
+156,Dunsparce,C,0.05,0,0
+157,Dudunsparce,U,0.07,0,0
+158,Wingull,C,0.05,0,0
+159,Pelipper,U,0.06,0,0
+160,Slakoth,C,0.04,0,0
+161,Vigoroth,U,0.05,0,0
+162,Slaking,R,0.18,0,0
+163,Fletchling,C,0.05,0,0
+164,Rookidee,C,0.05,4,0
+165,Corvisquire,U,0.06,4,0
+166,Tandemaus,C,0.06,4,3
+167,Tandemaus,C,0.06,4,3
+168,Maushold,U,0.06,4,3
+169,Squawkabilly ex,DR,3.51,2,2
+170,Flamigo,U,0.07,0,0
+171,Artazon,U,0.21,1,1
+172,Boss's Orders,R,0.38,1,1
+173,Bravery Charm,U,0.33,1,1
+174,Calamitous Snowy M.,U,0.16,0,0
+175,Calamitous Wasteland,U,0.16,0,0
+176,Choice Belt,U,0.14,1,1
+177,Clavell,C,0.08,1,0
+178,Delivery Drone,U,0.1,0,0
+179,Dendra,U,0.08,1,1
+180,Falkner,U,0.08,0,0
+181,Fighting Au Lait,U,0.11,0,0
+182,Giacomo,U,0.12,0,0
+183,Great Ball,C,0.06,0,0
+184,Grusha,U,0.08,0,0
+185,Iono,U,1.5,2,2
+186,Practice Studio,U,0.18,0,0
+187,Saguaro,U,0.11,0,0
+188,Super Rod,C,0.21,1,1
+189,Superior Energy R.,U,0.41,1,1
+190,Jet Energy,U,0.73,1,1
+191,Luminous Energy,U,0.31,1,1
+192,Reversal Energy,U,1.07,1,1
+193,Therapeutic Energy,U,0.31,1,1
+194,Heracross,IR,5.5,3,2
+195,Tropius,IR,7.19,2,2
+196,Sprigatito,IR,9.08,3,2
+197,Floragato,IR,10.46,3,2
+198,Bramblin,IR,5.6,3,2
+199,Fletchinder,IR,5.82,3,2
+200,Pyroar,IR,8.6,2,2
+201,Fuecoco,IR,13.23,2,2
+202,Crocalor,IR,5.95,2,2
+203,Magikarp,IR,29.2,3,2
+204,Marill,IR,6.35,2,2
+205,Eiscue,IR,6.66,3,2
+206,Quaxly,IR,7.29,3,2
+207,Quaxwell,IR,7.05,3,2
+208,Frigibax,IR,8.97,2,2
+209,Arctibax,IR,8.06,2,2
+210,Baxcalibur,IR,11.17,2,2
+211,Raichu,IR,11.71,2,2
+212,Mismagius,IR,7.57,5,2
+213,Gothorita,IR,5.36,2,2
+214,Sandygast,IR,6.5,3,2
+215,Rabsca,IR,5.07,2,2
+216,Tinkatink,IR,10.94,2,2
+217,Tinkatuff,IR,8.48,2,2
+218,Paldean Tauros,IR,8.67,3,2
+219,Sudowoodo,IR,4.45,3,2
+220,Nacli,IR,5.65,2,2
+221,Paldean Wooper,IR,5.75,3,2
+222,Tyranitar,IR,22.77,3,2
+223,Grafaiai,IR,6.25,2,2
+224,Orthworm,IR,4.89,2,2
+225,Rookidee,IR,8.91,3,2
+226,Maushold,IR,9.77,5,3
+227,Flamigo,IR,8.09,2,2
+228,Farigiraf,IR,9.02,2,2
+229,Dudunsparce,IR,6.32,2,2
+230,Forretress ex,UR,8.62,2,2
+231,Meowscarada ex,UR,7.84,2,2
+232,Wo-Chien ex,UR,5.64,2,2
+233,Skeledirge ex,UR,8.99,2,2
+234,Chi-Yu ex,UR,8.37,2,2
+235,Quaquaval ex,UR,6.2,2,2
+236,Chien-Pao ex,UR,12.78,2,2
+237,Bellibolt ex,UR,4.38,2,2
+238,Slowking ex,UR,10.52,2,2
+239,Dedenne ex,UR,11.14,2,2
+240,Tinkaton ex,UR,7.81,2,2
+241,Lycanroc ex,UR,4.98,2,2
+242,Annihilape ex,UR,6.95,2,2
+243,Ting-Lu ex,UR,7.31,2,2
+244,Paldean Clodsire ex,UR,7.04,2,2
+245,Copperajah ex,UR,6.42,2,2
+246,Noivern ex,UR,6.02,2,2
+247,Squawkabilly ex,UR,7.83,2,2
+248,Boss's Orders,UR,13.86,2,2
+249,Clavell,UR,5.88,2,2
+250,Dendra,UR,8.84,2,2
+251,Falkner,UR,7.23,2,2
+252,Giacomo,UR,10.68,2,2
+253,Grusha,UR,10.28,2,2
+254,Iono,UR,35.73,2,2
+255,Saguaro,UR,6.12,2,2
+256,Meowscarada ex,SIR,30.71,2,2
+257,Wo-Chien ex,SIR,23.42,2,2
+258,Skeledirge ex,SIR,25.48,2,2
+259,Chi-Yu ex,SIR,25.84,2,2
+260,Quaquaval ex,SIR,16.11,3,2
+261,Chien-Pao ex,SIR,42.38,2,2
+262,Tinkaton ex,SIR,22.78,2,2
+263,Ting-Lu ex,SIR,21.94,2,2
+264,Squawkabilly ex,SIR,20.6,2,2
+265,Boss's Orders,SIR,24.96,2,2
+266,Dendra,SIR,29.3,2,2
+267,Giacomo,SIR,18.59,2,2
+268,Grusha,SIR,35,2,2
+269,Iono,SIR,92.33,2,2
+270,Saguaro,SIR,13.87,2,2
+271,Meowscarada ex,HR,26.99,2,2
+272,Skeledirge ex,HR,14.91,2,2
+273,Quaquaval ex,HR,13.01,2,2
+274,Chien-Pao ex,HR,18.28,2,2
+275,Ting-Lu ex,HR,11.74,2,2
+276,Super Rod,HR,17.55,2,2
+277,Superior Energy R.,HR,13.5,2,2
+278,Grass Energy,HR,9.38,2,2
+279,Water Energy,HR,10.38,2,2

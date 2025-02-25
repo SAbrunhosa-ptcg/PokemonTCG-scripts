@@ -1,0 +1,231 @@
+Set number,Card name,Rarity,Value,IOS,IOS duplicate
+1,Oddish,C,0.03,0,0
+2,Gloom,C,0.05,0,0
+3,Bellossom,U,0.06,0,0
+4,Scyther,C,0.06,4,0
+5,Shuckle,C,0.05,0,0
+6,Surskit,C,0.03,0,0
+7,Masquerain,U,0.04,0,0
+8,Combee,C,0.03,0,0
+9,Foongus,C,0.03,4,0
+10,Amoonguss,U,0.06,0,0
+11,Phantump,C,0.04,4,0
+12,Trevenant,U,0.04,4,0
+13,Rowlet,C,0.04,1,0
+14,Dartrix,U,0.05,1,0
+15,Decidueye ex,DR,1.71,2,2
+16,Bounsweet,C,0.04,0,0
+17,Steenee,C,0.05,0,0
+18,Tsareena,U,0.07,0,0
+19,Smoliv,C,0.03,0,0
+20,Dolliv,U,0.05,0,0
+21,Arboliva,R,0.06,0,0
+22,Toesdscruel ex,DR,1.8,2,2
+23,Capsakid,C,0.04,0,0
+24,Capsakid,C,0.05,0,0
+25,Scovillain,R,0.06,0,0
+26,Charmander,C,0.08,1,0
+27,Charmeleon,U,0.11,1,0
+28,Vulpix,C,0.04,0,0
+29,Ninetales,U,0.05,0,0
+30,Entei,R,0.08,0,0
+31,Numel,C,0.04,0,0
+32,Camerupt,U,0.04,0,0
+33,Victini ex,DR,1.73,2,2
+34,Darumaka,C,0.03,0,0
+35,Darmanitan,U,0.04,0,0
+36,Litwick,C,0.03,4,0
+37,Lampent,U,0.04,4,0
+38,Chandelure,R,0.06,4,0
+39,Heatmor,C,0.04,0,0
+40,Larvesta,C,0.03,0,0
+41,Volcarona,U,0.04,0,0
+42,Eiscue ex,DR,1.54,2,2
+43,Charcadet,C,0.04,4,0
+44,Armarouge,U,0.05,4,0
+45,Lapras,U,0.06,4,0
+46,Carvanha,C,0.04,0,0
+47,Sharpedo,U,0.04,0,0
+48,Buizel,C,0.03,0,0
+49,Floatzel,U,0.04,0,0
+50,Tympole,C,0.04,0,0
+51,Palpitoad,C,0.05,0,0
+52,Seismitoad,U,0.07,0,0
+53,Cubchoo,C,0.04,4,0
+54,Beartic,U,0.04,4,0
+55,Cryogonal,C,0.04,0,0
+56,Froakie,C,0.03,4,0
+57,Frogadier,U,0.04,4,0
+58,Wiglett,C,0.04,0,0
+59,Wugtrio,U,0.04,0,0
+60,Finizen,C,0.06,0,0
+61,Finizen,C,0.05,0,0
+62,Palafin,R,0.09,0,0
+63,Magnemite,C,0.03,4,0
+64,Magneton,C,0.05,4,0
+65,Magnezone,U,0.08,4,0
+66,Tyranitar ex,DR,3.36,2,2
+67,Tynamo,C,0.03,0,0
+68,Eelektrik,C,0.04,0,0
+69,Eelektross,U,0.06,0,0
+70,Thundurus,R,0.09,3,0
+71,Toxel,C,0.04,4,0
+72,Toxtricity,R,0.06,4,0
+73,Pawmot ex,DR,1.43,2,2
+74,Tadbulb,C,0.04,0,0
+75,Tadbulb,C,0.04,0,0
+76,Tadbulb,C,0.04,0,0
+77,Bellibolt,U,0.08,0,0
+78,Bellibolt,U,0.07,0,0
+79,Miraidon ex,DR,1.66,3,0
+80,Cleffa,C,0.06,0,0
+81,Clefairy,C,0.04,0,0
+82,Clefable ex,DR,1.61,2,2
+83,Togepi,C,0.04,4,0
+84,Togetic,U,0.05,4,0
+85,Togekiss,R,0.06,4,0
+86,Espeon,U,0.11,3,0
+87,Snubbull,C,0.04,0,0
+88,Granbull,U,0.04,0,0
+89,Mawile,C,0.06,0,0
+90,Spoink,C,0.04,0,0
+91,Grumpig,U,0.04,0,0
+92,Lunatone,U,0.06,0,0
+93,Solrock,U,0.05,0,0
+94,Baltoy,C,0.03,0,0
+95,Claydol,R,0.07,0,0
+96,Vespiquen ex,DR,2.11,2,2
+97,Sinistea,C,0.04,0,0
+98,Polteageist,U,0.04,0,0
+99,Greavard,C,0.04,0,0
+100,Greavard,C,0.04,0,0
+101,Houndstone,U,0.04,0,0
+102,Houndstone ex,DR,1.51,2,2
+103,Diglett,C,0.05,0,0
+104,Dugtrio,U,0.04,0,0
+105,Larvitar,C,0.06,4,0
+106,Pupitar,U,0.05,4,0
+107,Nosepass,C,0.04,0,0
+108,Barboach,C,0.04,0,0
+109,Wishcash,U,0.04,0,0
+110,Bonsly,C,0.04,0,0
+111,Drilbur,C,0.05,4,0
+112,Stunfisk,U,0.04,0,0
+113,Diggersby,U,0.04,0,0
+114,Crabrawler,C,0.04,0,0
+115,Crabominable,U,0.04,0,0
+116,Rockruff,C,0.04,0,0
+117,Lycanroc,U,0.05,3,0
+118,Toedscool,C,0.04,0,0
+119,Toesdscruel,U,0.04,0,0
+120,Klawf ex,DR,1.31,2,2
+121,Glimmet,C,0.04,0,0
+122,Glimmet,C,0.04,0,0
+123,Glimmora ex,DR,1.8,2,2
+124,Koraidon ex,DR,1.76,2,2
+125,Charizard ex,DR,19.21,2,2
+126,Paldean Wooper,C,0.05,1,0
+127,Paldean Wooper,C,0.04,1,0
+128,Paldean Clodsire,U,0.06,0,0
+129,Paldean Clodsire,U,0.08,0,0
+130,Umbreon,U,0.22,4,0
+131,Houndour,C,0.04,4,0
+132,Houndour,C,0.04,4,0
+133,Houndoom,U,0.04,4,0
+134,Houndoom ex,DR,1.59,4,2
+135,Absol ex,DR,1.66,4,2
+136,Darkrai,R,0.12,4,0
+137,Inkay,C,0.04,0,0
+138,Malamar,U,0.04,0,0
+139,Salandit,C,0.04,0,0
+140,Salazzle,U,0.05,0,0
+141,Scizor,R,0.09,4,0
+142,Skarmory,U,0.04,4,0
+143,Mawile,U,0.06,0,0
+144,Bronzor,C,0.04,0,0
+145,Bronzong,U,0.04,0,0
+146,Probopass,U,0.04,0,0
+147,Excadrill,U,0.04,4,0
+148,Pawniard,C,0.04,4,0
+149,Bisharp,C,0.04,4,0
+150,Kingambit,U,0.08,4,0
+151,Togedemaru,C,0.04,0,0
+152,Meltan,C,0.05,0,0
+153,Melmetal ex,DR,1.39,2,2
+154,Varoom,C,0.05,0,0
+155,Varoom,C,0.04,0,0
+156,Revavroom ex,DR,1.53,2,2
+157,Dratini,C,0.04,4,0
+158,Dragonair,U,0.05,4,0
+159,Dragonite ex,DR,2.87,2,2
+160,Altaria,U,0.05,3,0
+161,Drampa,U,0.07,1,0
+162,Pidgey,C,0.07,0,0
+163,Pidgeotto,U,0.06,0,0
+164,Pidgeot ex,DR,5.43,2,2
+165,Kangaskhan,U,0.04,0,0
+166,Eevee,C,0.06,3,0
+167,Zigzagoon,C,0.04,0,0
+168,Linoone,U,0.04,0,0
+169,Swablu,C,0.04,0,0
+170,Lillipup,C,0.03,0,0
+171,Herdier,C,0.04,0,0
+172,Stoutland,U,0.06,0,0
+173,Audino,C,0.04,0,0
+174,Bouffalant,U,0.07,0,0
+175,Bunnelby,C,0.04,0,0
+176,Yungoos,C,0.04,0,0
+177,Gumshoos,U,0.04,0,0
+178,Skwovet,C,0.04,0,0
+179,Greedent ex,DR,1.55,2,2
+180,Lechonk,C,0.05,0,0
+181,Lechonk,C,0.04,0,0
+182,Lechonk,C,0.04,0,0
+183,Oinkologne,U,0.09,0,0
+184,Oinkologne,U,0.07,0,0
+185,Flamigo,U,0.04,0,0
+186,Arven,U,0.11,3,3
+187,Brassius,R,0.14,0,0
+188,Geeta,R,0.14,0,0
+189,Letter of Encouragement,U,0.22,0,0
+190,Ortega,U,0.15,0,0
+191,Patrol Cap,U,0.13,0,0
+192,Pokemon League Headquarters,U,0.24,2,2
+193,Poppy,U,0.16,0,0
+194,Ryme,C,0.11,0,0
+195,Team Star Grunt,U,0.12,0,0
+196,Town Store,C,0.12,2,2
+197,Vengeful Punch,U,0.19,2,2
+198,Gloom,IR,5.61,2,2
+199,Ninetales,IR,16.88,2,2
+200,Palafin,IR,5.4,2,2
+201,Bellibolt,IR,2.9,2,2
+202,Cleffa,IR,8.98,2,2
+203,Larvitar,IR,3.86,2,2
+204,Houndour,IR,4.59,5,2
+205,Scizor,IR,9.94,5,2
+206,Varoom,IR,3.58,2,2
+207,Pidgey,IR,7.21,2,2
+208,Pidgeotto,IR,6.63,2,2
+209,Lechonk,IR,3.77,2,2
+210,Eiscue ex,UR,4.67,2,2
+211,Tyranitar ex,UR,11.69,2,2
+212,Vespiquen ex,UR,4.74,2,2
+213,Glimmora ex,UR,2.54,2,2
+214,Absol ex,UR,4.26,2,2
+215,Charizard ex,UR,33.49,2,2
+216,Revavroom ex,UR,2.79,2,2
+217,Pidgeot ex,UR,6.75,2,2
+218,Geeta,UR,5.74,2,2
+219,Ortega,UR,4.69,2,2
+220,Poppy,UR,5.11,2,2
+221,Ryme,UR,3.83,2,2
+222,Eiscue ex,SIR,7.61,2,2
+223,Charizard ex,SIR,116.28,2,2
+224,Revavroom ex,SIR,7.65,2,2
+225,Pidgeot ex,SIR,16.51,2,2
+226,Geeta,SIR,12.41,2,2
+227,Poppy,SIR,9.21,2,2
+228,Charizard ex,HR,44.49,2,2
+229,Artazon,HR,6.3,2,2
+230,Basic Fire Energy,HR,5.56,2,2
